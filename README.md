@@ -12,7 +12,7 @@ Download and install [Node.js][nodejs], then install `pwned` globally using
 `npm`:
 
 ```shell
-npm install pwned -g
+npm install @khulnasoft/pwned -g
 ```
 
 Alternatively, you can run it on-demand using the [`npx`][npx] package runner:
